@@ -3,3 +3,5 @@
 Une simple calculatrice web réalisée avec **HTML**, **CSS**, et **JavaScript**.
 
 ## Fonctionnalités
+
+- **Addition**, **Soustraction**, **Multiplication**, **Division**.
