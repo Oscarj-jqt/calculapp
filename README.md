@@ -10,4 +10,4 @@ Une simple calculatrice web réalisée avec **HTML**, **CSS**, et **JavaScript**
  
   - ## Aperçu
 
-Cette application web permet d'effectuer des calculs arithmétiques de base grâce à 
+Cette application web permet d'effectuer des calculs arithmétiques de base grâce à une interface utilisateur intuitive et épurée. 
