@@ -9,3 +9,5 @@ Une simple calculatrice web réalisée avec **HTML**, **CSS**, et **JavaScript**
 - - Interface réactive avec mise à jour instantanée des résultats.
  
   - ## Aperçu
+
+Cette application web permet d'effectuer des calculs arithmétiques de base grâce à 
